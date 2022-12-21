@@ -1,0 +1,44 @@
+// THEME EDITOR: https://in-your-saas.github.io/material-ui-theme-editor/
+// usage: download from website & take palette code
+
+import { createTheme } from "@mui/material/styles";
+
+export default createTheme({
+    typography: {
+        useNextVariants: true,
+    },
+    "palette": {
+        "common": {
+            "black": "rgba(216, 17, 17, 1)",
+            "white": "#fff"
+        },
+        "background": {
+            "paper": "#fff",
+            "default": "#fafafa"
+        },
+        "primary": {
+            "light": "#7986cb",
+            "main": "rgba(70, 170, 107, 1)",
+            "dark": "#303f9f",
+            "contrastText": "#fff"
+        },
+        "secondary": {
+            "light": "#ff4081",
+            "main": "rgba(16, 94, 183, 1)",
+            "dark": "#c51162",
+            "contrastText": "#fff"
+        },
+        "error": {
+            "light": "#e57373",
+            "main": "#f44336",
+            "dark": "#d32f2f",
+            "contrastText": "#fff"
+        },
+        "text": {
+            "primary": "rgba(0, 0, 0, 0.87)",
+            "secondary": "rgba(0, 0, 0, 0.54)",
+            "disabled": "rgba(0, 0, 0, 0.38)",
+            "hint": "rgba(0, 0, 0, 0.38)"
+        }
+    }
+});

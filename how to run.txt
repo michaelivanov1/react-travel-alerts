@@ -1,0 +1,7 @@
+cd D:\CODINGANDSCHOOL\at home web dev\Javascript sem 5 project only\server\project1
+	npx nodemon app
+
+cd D:\CODINGANDSCHOOL\at home web dev\Javascript sem 5 project only\client\src\project1
+	npm start
+
+open localhost:5000
