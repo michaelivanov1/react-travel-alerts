@@ -3,10 +3,10 @@ import { Route, Link, Routes } from "react-router-dom";
 import MenuIcon from "@mui/icons-material/Menu";
 import { ThemeProvider } from "@mui/material/styles";
 import theme from "./theme";
-import HomePage from "./project1/homeComponent";
-import AlertComponent from "./project1/alertComponent";
-import AdvisoryAddComponent from "./project1/advisoryAddComponent";
-import AdvisoryListComponent from "./project1/advisoryListComponent";
+import HomePage from "./components/homeComponent";
+import AlertComponent from "./components/alertComponent";
+import AdvisoryAddComponent from "./components/advisoryAddComponent";
+import AdvisoryListComponent from "./components/advisoryListComponent";
 import {
   Toolbar,
   AppBar,
