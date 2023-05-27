@@ -1,6 +1,0 @@
-in this directory
-
-> npm run build
-> take everything from build folder in reactexercises and paste it into project1 "public"
-  folder in jsexercises
-> in jsexercises just commit as usual

@@ -4,6 +4,7 @@
 node_modules
 /.pnp
 .pnp.js
+how2buildandpushheroku.txt
 
 # testing
 /coverage
