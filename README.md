@@ -1,5 +1,8 @@
 a MERN stack application that provides travelers with country advisory data. 
-this is a mobile-first approach project. use in mobile view for best experience. 
+
+this is a mobile-first approach project. 
+
+use in mobile view for best experience. 
 
 ```
 clone repository 
